@@ -1,7 +1,7 @@
 
 Conti is malware developed and first used by the Russia-based hacking group "Wizard Spider" in December, 2019.[1][2] It has since become a full-fledged ransomware-as-a-service (RaaS) operation used by numerous threat actor groups to conduct ransomware attacks. The Conti malware, once deployed on a victim device, not only encrypts data on the device, but also spreads to other devices on the network, obfuscates its presence, and provides a remote attacker control over its actions on the objective.
 
-# CONTI
+# CONTI RANSOMWARE INVESTIGATION
 # Using Splunk to investigate a compromised Exchange server with a ransomware
 
 **Scenario:**
